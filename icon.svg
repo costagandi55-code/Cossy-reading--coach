@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#123b68"/>
+<path d="M72 142 Q156 98 256 150 Q356 98 440 142 L440 370 Q350 330 256 382 Q162 330 72 370 Z" fill="#fff"/>
+<path d="M256 150 V382" stroke="#ffca55" stroke-width="16"/>
+<path d="M100 178 Q170 148 230 178 M282 178 Q342 148 412 178" stroke="#1769aa" stroke-width="10" fill="none" stroke-linecap="round"/>
+<text x="256" y="448" font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#ffca55">READ</text>
+</svg>
